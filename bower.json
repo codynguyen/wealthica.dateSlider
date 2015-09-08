@@ -1,18 +1,22 @@
 {
-    "name": "ion.rangeslider",
+    "name": "wealthica.dateSlider",
     "version": "2.0.13",
-    "homepage": "https://github.com/IonDen/ion.rangeSlider",
+    "homepage": "https://github.com/codynguyen/wealthica.dateSlider",
     "authors": [
         {
             "name": "IonDen",
             "email": "denis.ineshin@gmail.com",
             "homepage": "http://ionden.com"
+        },
+        {
+            "name": "Cody Nguyen",
+            "email": "cody.haind@gmail.com"
         }
     ],
     "description": "Powerful range slider with skin support",
     "repository": {
         "type": "git",
-        "url": "git://github.com/IonDen/ion.rangeSlider.git"
+        "url": "git@github.com:codynguyen/wealthica.dateSlider.git"
     },
     "main": [
         "js/ion.rangeSlider.js",
